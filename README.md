@@ -1,1 +1,4 @@
-# hg_1_alfa
+    Yxa-Alfa
+    Kevin López-Bravo
+    Daniel-Charlie
+    Luis-Delta
